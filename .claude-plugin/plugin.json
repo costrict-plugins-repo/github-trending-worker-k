@@ -1,0 +1,23 @@
+{
+  "name": "worker-k",
+  "version": "1.0.0",
+  "description": "AI workforce skills for office automation — Excel, Word, PDF, research, bank reconciliation, and more. Built for accounting and professional service firms.",
+  "author": {
+    "name": "AiTraining2U",
+    "url": "https://workerk.aitomate.it.com"
+  },
+  "homepage": "https://workerk.aitomate.it.com",
+  "repository": "https://github.com/WeiKhjan/worker-k",
+  "license": "MIT",
+  "keywords": [
+    "office-automation",
+    "accounting",
+    "audit",
+    "excel",
+    "word",
+    "pdf",
+    "research",
+    "bank-reconciliation",
+    "malaysia"
+  ]
+}
